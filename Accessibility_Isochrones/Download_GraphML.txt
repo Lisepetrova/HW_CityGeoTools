@@ -1,0 +1,2 @@
+Интермодальный граф весит больше 25Мб, поэтому его невозможно загрузить на GitHub. 
+В случае если zip не откроется, то граф находится на гугл диске: https://drive.google.com/file/d/1PkpIwkY6EgEMvNFS3Fno3ApnsHy8AXoL/view?usp=sharing
